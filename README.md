@@ -1,6 +1,6 @@
 # ESP8266 MQTT Lights Using JSON for Home Assistant & Node-RED
 
-This project adds an easy way to create DIY lighting for [Home Assistant](https://home-assistant.io/), an amazing, extensible, open-source home automation system.
+This project adds an easy way to create DIY lighting for [Home Assistant](https://home-assistant.io/), an amazing, extensible, open-source home automation system and Node-RED.
 
 By sending a JSON payload (in an MQTT message), Home Assistant or Node-RED can include whichever fields are necessary, reducing the round trips from 3 to 1. For example, this is a sample payload including most of the fields:
 ```json
