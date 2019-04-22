@@ -21,6 +21,7 @@
   *   #define CONFIG_PIN_WHITE   12 // For RGB(W)
   *   #define PIR1  13
   *   #define PIR2  14
+  *   Multiple PIR outputs could be connected to a single GPIO (via diodes)
  */
 
 // Set configuration options for LED type, pins, WiFi, and MQTT in the following file:
